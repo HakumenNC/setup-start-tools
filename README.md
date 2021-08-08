@@ -2,22 +2,27 @@
 
 A tools' list you should have installed on your new linux setup
 
-![git](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/git/square-1-60.png)
-![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)
-![sdkman](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/s/sdkman/square-1-60.png)
-![java](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/j/java/square-1-60.png)
-![gradle](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/gradle/square-1-60.png)
-![maven](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/m/maven/square-1-60.png)
-![nodejs](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/nodejs/square-1-60.png)
-![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/npm/square-1-60.png)
-![yarn](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/y/yarn/square-1-60.png)
-![tree](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)
-![docker](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/docker/square-1-60.png)
-![docker-compose](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/docker-compose/square-1-60.png)
-![guake](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/guake/square-1-60.png)
-![virtualbox](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/virtualbox/square-1-60.png)
-![vagrant](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/vagrant/square-1-60.png)
-![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/s/slack/square-1-60.png)
+[![git](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/git/square-1-60.png)](#git "git")
+[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#curl "curl")
+[![sdkman](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/s/sdkman/square-1-60.png)](#sdkman "sdkman")
+[![java](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/j/java/square-1-60.png)](#java "java")
+[![gradle](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/gradle/square-1-60.png)](#gradle "gradle")
+[![maven](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/m/maven/square-1-60.png)](#maven "maven")
+[![nodejs](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/nodejs/square-1-60.png)](#nodejs "nodejs")
+[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#nvm "nvm")
+[![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/npm/square-1-60.png)](#npm "npm")
+[![yarn](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/y/yarn/square-1-60.png)](#yarn "yarn")
+[![tree](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#tree "tree")
+[![docker](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/docker/square-1-60.png)](#docker "docker")
+[![docker-compose](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/docker-compose/square-1-60.png)](#docker-compose "docker-compose")
+[![guake](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/guake/square-1-60.png)](#guake "guake")
+[![virtualbox](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/virtualbox/square-1-60.png)](#virtualbox "virtualbox")
+[![vagrant](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/vagrant/square-1-60.png)](#vagrant "vagrant")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/s/slack/square-1-60.png)](#slack "slack")
+[![mattermost](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/m/mattermost/square-1-60.png)](#mattermost "mattermost")
+[![intellij](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/i/intellij/square-1-60.png)](#intellij "intellij")
+[![postgresql](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/p/postgresql/square-1-60.png)](#postgresql "postgresql")
+[![dbeaver](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/dbeaver/square-1-60.png)](#dbeaver "dbeaver")
 
 ## git
 
@@ -52,17 +57,6 @@ source "$HOME/.sdkman/bin/sdkman-init.sh"
 sdk version
 ```
 
-```console
-$ sdk version
-==== BROADCAST =================================================================
-* 2021-02-27: pomchecker 1.1.0 available on SDKMAN!
-* 2021-02-27: pomchecker 1.1.0 available on SDKMAN! https://github.com/kordamp/pomchecker/releases/tag/v1.1.0
-* 2021-02-26: kotlin 1.4.31 available on SDKMAN!
-================================================================================
-
-SDKMAN 5.11.0+644
-```
-
 ## java
 
 <https://www.java.com/>
@@ -76,11 +70,8 @@ sdk list java
 sdk install java 11.0.10-open
 ```
 
-```console
-$ java --version
-openjdk 11.0.10 2021-01-19
-OpenJDK Runtime Environment 18.9 (build 11.0.10+9)
-OpenJDK 64-Bit Server VM 18.9 (build 11.0.10+9, mixed mode)
+```sh
+java --version
 ```
 
 ## gradle
@@ -95,10 +86,8 @@ OpenJDK 64-Bit Server VM 18.9 (build 11.0.10+9, mixed mode)
 sdk install gradle
 ```
 
-```console
-$ gradle -v
-
-Welcome to Gradle 6.8.3!
+```sh
+gradle -v
 ```
 
 ## maven
@@ -113,13 +102,8 @@ Welcome to Gradle 6.8.3!
 sdk install maven
 ```
 
-```console
-$ mvn -v
-Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
-Maven home: /home/rsoutart/.sdkman/candidates/maven/current
-Java version: 11.0.10, vendor: Oracle Corporation, runtime: /home/rsoutart/.sdkman/candidates/java/11.0.10-open
-Default locale: en_US, platform encoding: UTF-8
-OS name: "linux", version: "5.8.0-44-generic", arch: "amd64", family: "unix"
+```sh
+mvn -v
 ```
 
 ## nvm
@@ -132,9 +116,8 @@ OS name: "linux", version: "5.8.0-44-generic", arch: "amd64", family: "unix"
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 ```
 
-```console
+```sh
 $ nvm -v
-0.37.2
 ```
 
 ## node
@@ -161,9 +144,8 @@ nvm install node
 sudo npm install --global yarn
 ```
 
-```console
-$ yarn -v
-1.22.5
+```sh
+yarn -v
 ```
 
 ## tree
@@ -197,12 +179,8 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
-```console
-$ docker run hello-world
-
-Hello from Docker!
-This message shows that your installation appears to be working correctly.
-...
+```sh
+docker run hello-world
 ```
 
 ### user permissions
@@ -221,9 +199,8 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.28.4/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-```console
-$ docker-compose -v
-docker-compose version 1.28.4, build cabd5cfb
+```sh
+docker-compose -v
 ```
 
 ## guake
@@ -258,9 +235,8 @@ Download file : <https://releases.hashicorp.com/vagrant/2.2.14/vagrant_2.2.14_x8
 sudo apt install ./vagrant_2.2.14_x86_64.deb
 ```
 
-```console
-$ vagrant --version
-Vagrant 2.2.14
+```sh
+vagrant --version
 ```
 
 ## microk8s
@@ -276,9 +252,8 @@ sudo snap install microk8s --classic
 
 > Using [`snap`](https://snapcraft.io/)
 
-```console
-$ microk8s status --wait-ready
-microk8s is running
+```sh
+microk8s status --wait-ready
 ```
 
 ### permissions
@@ -309,3 +284,60 @@ sudo snap install slack --classic
 ```
 
 > Using [`snap`](https://snapcraft.io/)
+
+## mattermost
+
+<https://mattermost.com/>
+
+*"Bring your tools and teams together in a fully secure location."*
+
+```sh
+sudo snap install mattermost-desktop
+```
+
+> Using [`snap`](https://snapcraft.io/)
+
+## intellij
+
+<https://www.jetbrains.com/idea/>
+
+*"Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable."*
+
+ultimate
+
+```sh
+sudo snap install intellij-idea-ultimate --classic --edge
+```
+
+community
+
+```sh
+sudo snap install intellij-idea-community --classic --edge
+```
+
+> Using [`snap`](https://snapcraft.io/)
+
+## postgresql
+
+<https://www.postgresql.org/>
+
+*"PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance."*
+
+```sh
+sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+sudo apt-get update
+sudo apt-get -y install postgresql-9.6
+```
+
+## dbeaver
+
+<https://dbeaver.io/>
+
+*"Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases."*
+
+```sh
+sudo add-apt-repository ppa:serge-rider/dbeaver-ce
+sudo apt-get update
+sudo apt-get install dbeaver-ce
+```
