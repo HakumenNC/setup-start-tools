@@ -34,6 +34,8 @@ A tools' list you should have installed on your new linux setup
 sudo apt install git-all
 ```
 
+[Back to top](#setup-start-tools)
+
 ## curl
 
 <https://curl.se/>
@@ -43,6 +45,8 @@ sudo apt install git-all
 ```sh
 sudo apt install curl
 ```
+
+[Back to top](#setup-start-tools)
 
 ## sdkman
 
@@ -56,6 +60,8 @@ curl -s "https://get.sdkman.io" | bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
 sdk version
 ```
+
+[Back to top](#setup-start-tools)
 
 ## java
 
@@ -74,6 +80,8 @@ sdk install java 11.0.10-open
 java --version
 ```
 
+[Back to top](#setup-start-tools)
+
 ## gradle
 
 <https://gradle.org/>
@@ -89,6 +97,8 @@ sdk install gradle
 ```sh
 gradle -v
 ```
+
+[Back to top](#setup-start-tools)
 
 ## maven
 
@@ -106,6 +116,8 @@ sdk install maven
 mvn -v
 ```
 
+[Back to top](#setup-start-tools)
+
 ## nvm
 
 <https://github.com/nvm-sh/nvm>
@@ -117,8 +129,10 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 ```
 
 ```sh
-$ nvm -v
+nvm -v
 ```
+
+[Back to top](#setup-start-tools)
 
 ## node
 
@@ -134,6 +148,8 @@ nvm install node
 
 > `node` come with the latest compatible [`npm`](https://www.npmjs.com/) version
 
+[Back to top](#setup-start-tools)
+
 ## yarn
 
 <https://yarnpkg.com/>
@@ -148,6 +164,8 @@ sudo npm install --global yarn
 yarn -v
 ```
 
+[Back to top](#setup-start-tools)
+
 ## tree
 
 ```sh
@@ -161,6 +179,8 @@ $ tree .
 │   ├── docs
 │   │   └── cheatsheet-must-have-tools.md
 ```
+
+[Back to top](#setup-start-tools)
 
 ## docker
 
@@ -190,6 +210,8 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
 
+[Back to top](#setup-start-tools)
+
 ## docker-compose
 
 *"Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services."*
@@ -203,6 +225,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose -v
 ```
 
+[Back to top](#setup-start-tools)
+
 ## guake
 
 <http://guake-project.org/>
@@ -213,6 +237,8 @@ docker-compose -v
 sudo apt-get install guake
 ```
 
+[Back to top](#setup-start-tools)
+
 ## virtualbox
 
 <https://www.virtualbox.org/>
@@ -222,6 +248,8 @@ sudo apt-get install guake
 ```sh
 sudo apt install virtualbox
 ```
+
+[Back to top](#setup-start-tools)
 
 ## vagrant
 
@@ -238,6 +266,8 @@ sudo apt install ./vagrant_2.2.14_x86_64.deb
 ```sh
 vagrant --version
 ```
+
+[Back to top](#setup-start-tools)
 
 ## microk8s
 
@@ -263,6 +293,8 @@ sudo usermod -a -G microk8s rsoutart
 sudo chown -f -R rsoutart ~/.kube
 ```
 
+[Back to top](#setup-start-tools)
+
 ## google chrome
 
 <https://www.google.com/chrome/>
@@ -272,6 +304,8 @@ sudo chown -f -R rsoutart ~/.kube
 ```sh
 sudo apt-get install google-chrome-stable
 ```
+
+[Back to top](#setup-start-tools)
 
 ## slack
 
@@ -285,6 +319,8 @@ sudo snap install slack --classic
 
 > Using [`snap`](https://snapcraft.io/)
 
+[Back to top](#setup-start-tools)
+
 ## mattermost
 
 <https://mattermost.com/>
@@ -296,6 +332,8 @@ sudo snap install mattermost-desktop
 ```
 
 > Using [`snap`](https://snapcraft.io/)
+
+[Back to top](#setup-start-tools)
 
 ## intellij
 
@@ -317,6 +355,8 @@ sudo snap install intellij-idea-community --classic --edge
 
 > Using [`snap`](https://snapcraft.io/)
 
+[Back to top](#setup-start-tools)
+
 ## postgresql
 
 <https://www.postgresql.org/>
@@ -330,6 +370,8 @@ sudo apt-get update
 sudo apt-get -y install postgresql-9.6
 ```
 
+[Back to top](#setup-start-tools)
+
 ## dbeaver
 
 <https://dbeaver.io/>
@@ -341,3 +383,5 @@ sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 sudo apt-get update
 sudo apt-get install dbeaver-ce
 ```
+
+[Back to top](#setup-start-tools)
