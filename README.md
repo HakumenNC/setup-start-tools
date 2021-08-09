@@ -23,6 +23,8 @@ A tools' list you should have installed on your new linux setup
 [![intellij](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/i/intellij/square-1-60.png)](#intellij "intellij")
 [![postgresql](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/p/postgresql/square-1-60.png)](#postgresql "postgresql")
 [![dbeaver](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/dbeaver/square-1-60.png)](#dbeaver "dbeaver")
+[![postman](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/p/postman/square-1-60.png)](#postman "postman")
+[![vscode](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/vscode/square-1-60.png)](#vscode "vscode")
 
 ## git
 
@@ -383,5 +385,33 @@ sudo add-apt-repository ppa:serge-rider/dbeaver-ce
 sudo apt-get update
 sudo apt-get install dbeaver-ce
 ```
+
+[Back to top](#setup-start-tools)
+
+## postman
+
+<https://www.postman.com/>
+
+*"Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster."*
+
+```sh
+sudo snap install postman
+```
+
+> Using [`snap`](https://snapcraft.io/)
+
+[Back to top](#setup-start-tools)
+
+## vscode
+
+<https://code.visualstudio.com/>
+
+*"Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux."*
+
+```sh
+sudo snap install code --classic
+```
+
+> Using [`snap`](https://snapcraft.io/)
 
 [Back to top](#setup-start-tools)
