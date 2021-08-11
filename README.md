@@ -8,9 +8,9 @@ A tools' list you should have installed on your new linux setup
 [![java](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/j/java/square-1-60.png)](#java "java")
 [![gradle](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/gradle/square-1-60.png)](#gradle "gradle")
 [![maven](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/m/maven/square-1-60.png)](#maven "maven")
-[![nodejs](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/nodejs/square-1-60.png)](#nodejs "nodejs")
 [![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#nvm "nvm")
-[![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/npm/square-1-60.png)](#npm "npm")
+[![nodejs](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/nodejs/square-1-60.png)](#nodejs "nodejs")
+[![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/npm/square-1-60.png)](#nodejs "npm")
 [![yarn](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/y/yarn/square-1-60.png)](#yarn "yarn")
 [![tree](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#tree "tree")
 [![docker](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/docker/square-1-60.png)](#docker "docker")
@@ -25,6 +25,9 @@ A tools' list you should have installed on your new linux setup
 [![dbeaver](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/dbeaver/square-1-60.png)](#dbeaver "dbeaver")
 [![postman](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/p/postman/square-1-60.png)](#postman "postman")
 [![vscode](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/vscode/square-1-60.png)](#vscode "vscode")
+[![forticlient](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/f/forticlient/square-1-60.png)](#forticlient "forticlient")
+[![remmina](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/r/remmina/square-1-60.png)](#remmina "remmina")
+[![filezilla](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/f/filezilla/square-1-60.png)](#filezilla "filezilla")
 
 ## git
 
@@ -136,7 +139,7 @@ nvm -v
 
 [Back to top](#setup-start-tools)
 
-## node
+## nodejs
 
 <https://nodejs.org/>
 
@@ -413,5 +416,58 @@ sudo snap install code --classic
 ```
 
 > Using [`snap`](https://snapcraft.io/)
+
+[Back to top](#setup-start-tools)
+
+
+## forticlient
+
+<https://www.fortinet.com/support/product-downloads#vpn>
+
+*"The VPN-only version of FortiClient offers SSL VPN and IPSecVPN, but does not include any support. Download the best VPN software for multiple devices."*
+
+```sh
+wget -O - https://repo.fortinet.com/repo/6.4/ubuntu/DEB-GPG-KEY | sudo apt-key add -
+```
+
+Add the following line in /etc/apt/sources.list
+
+```txt
+deb [arch=amd64] https://repo.fortinet.com/repo/6.4/ubuntu/ xenial multiverse
+```
+
+```sh
+sudo apt-get update
+```
+
+```sh
+sudo apt install forticlient
+```
+
+[Back to top](#setup-start-tools)
+
+## remmina
+
+<https://remmina.org/>
+
+*"Remote access screen and file sharing to your desktop."*
+
+```sh
+sudo snap install remmina
+```
+
+> Using [`snap`](https://snapcraft.io/)
+
+[Back to top](#setup-start-tools)
+
+## filezilla
+
+<https://filezilla-project.org/>
+
+*"The FileZilla Client not only supports FTP, but also FTP over TLS (FTPS) and SFTP. It is open source software distributed free of charge under the terms of the GNU General Public License."*
+
+```sh
+sudo apt-get install filezilla
+```
 
 [Back to top](#setup-start-tools)
