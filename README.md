@@ -13,7 +13,7 @@ A tools' list you should have installed on your new linux setup
 [![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/n/npm/square-1-60.png)](#nodejs "npm")
 [![yarn](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/y/yarn/square-1-60.png)](#yarn "yarn")
 [![tree](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/t/terminal/square-1-60.png)](#tree "tree")
-[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/h/httpie/square-1-60.png)](#slack "httpie")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/h/httpie/square-1-60.png)](#httpie "httpie")
 [![docker](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/docker/square-1-60.png)](#docker "docker")
 [![docker-compose](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/docker-compose/square-1-60.png)](#docker-compose "docker-compose")
 [![guake](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/g/guake/square-1-60.png)](#guake "guake")
