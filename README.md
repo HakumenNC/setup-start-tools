@@ -2,38 +2,42 @@
 
 A tools' list you should have installed on your new linux setup
 
-[![git](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/git/square-1-60.png)](#git "git")
-[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#curl "curl")
-[![sdkman](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/s/sdkman/square-1-60.png)](#sdkman "sdkman")
-[![java](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/j/java/square-1-60.png)](#java "java")
-[![gradle](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/gradle/square-1-60.png)](#gradle "gradle")
-[![maven](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/m/maven/square-1-60.png)](#maven "maven")
-[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#nvm "nvm")
-[![nodejs](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/nodejs/square-1-60.png)](#nodejs "nodejs")
-[![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/n/npm/square-1-60.png)](#nodejs "npm")
-[![yarn](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/y/yarn/square-1-60.png)](#yarn "yarn")
-[![tree](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/t/terminal/square-1-60.png)](#tree "tree")
-[![docker](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/docker/square-1-60.png)](#docker "docker")
-[![docker-compose](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/docker-compose/square-1-60.png)](#docker-compose "docker-compose")
-[![guake](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/g/guake/square-1-60.png)](#guake "guake")
-[![virtualbox](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/virtualbox/square-1-60.png)](#virtualbox "virtualbox")
-[![vagrant](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/vagrant/square-1-60.png)](#vagrant "vagrant")
-[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/s/slack/square-1-60.png)](#slack "slack")
-[![mattermost](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/m/mattermost/square-1-60.png)](#mattermost "mattermost")
-[![intellij](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/i/intellij/square-1-60.png)](#intellij "intellij")
-[![postgresql](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/p/postgresql/square-1-60.png)](#postgresql "postgresql")
-[![dbeaver](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/d/dbeaver/square-1-60.png)](#dbeaver "dbeaver")
-[![postman](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/p/postman/square-1-60.png)](#postman "postman")
-[![vscode](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/v/vscode/square-1-60.png)](#vscode "vscode")
-[![forticlient](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/f/forticlient/square-1-60.png)](#forticlient "forticlient")
-[![remmina](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/r/remmina/square-1-60.png)](#remmina "remmina")
-[![filezilla](https://github.com/HakumenNC/logo-gallery/raw/0.0.4/img/f/filezilla/square-1-60.png)](#filezilla "filezilla")
+[![git](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/g/git/square-1-60.png)](#git "git")
+[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/t/terminal/square-1-60.png)](#curl "curl")
+[![sdkman](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/s/sdkman/square-1-60.png)](#sdkman "sdkman")
+[![java](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/j/java/square-1-60.png)](#java "java")
+[![gradle](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/g/gradle/square-1-60.png)](#gradle "gradle")
+[![maven](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/m/maven/square-1-60.png)](#maven "maven")
+[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/t/terminal/square-1-60.png)](#nvm "nvm")
+[![nodejs](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/n/nodejs/square-1-60.png)](#nodejs "nodejs")
+[![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/n/npm/square-1-60.png)](#nodejs "npm")
+[![yarn](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/y/yarn/square-1-60.png)](#yarn "yarn")
+[![tree](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/t/terminal/square-1-60.png)](#tree "tree")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/h/httpie/square-1-60.png)](#slack "httpie")
+[![docker](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/docker/square-1-60.png)](#docker "docker")
+[![docker-compose](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/docker-compose/square-1-60.png)](#docker-compose "docker-compose")
+[![guake](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/g/guake/square-1-60.png)](#guake "guake")
+[![virtualbox](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/v/virtualbox/square-1-60.png)](#virtualbox "virtualbox")
+[![vagrant](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/v/vagrant/square-1-60.png)](#vagrant "vagrant")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/c/chrome/square-1-60.png)](#google-chrome "chrome")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/s/slack/square-1-60.png)](#slack "slack")
+[![mattermost](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/m/mattermost/square-1-60.png)](#mattermost "mattermost")
+[![intellij](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/i/intellij/square-1-60.png)](#intellij "intellij")
+[![postgresql](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/p/postgresql/square-1-60.png)](#postgresql "postgresql")
+[![dbeaver](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/dbeaver/square-1-60.png)](#dbeaver "dbeaver")
+[![postman](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/p/postman/square-1-60.png)](#postman "postman")
+[![vscode](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/v/vscode/square-1-60.png)](#vscode "vscode")
+[![forticlient](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/f/forticlient/square-1-60.png)](#forticlient "forticlient")
+[![remmina](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/r/remmina/square-1-60.png)](#remmina "remmina")
+[![filezilla](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/f/filezilla/square-1-60.png)](#filezilla "filezilla")
 
 ## git
 
 <https://git-scm.com/>
 
 *"Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."*
+
+### Installation
 
 ```sh
 sudo apt install git-all
@@ -183,6 +187,18 @@ $ tree .
 ├── Documents
 │   ├── docs
 │   │   └── cheatsheet-must-have-tools.md
+```
+
+[Back to top](#setup-start-tools)
+
+## httpie
+
+<https://httpie.io/>
+
+*"HTTPie—aitch-tee-tee-pie—is a user-friendly command-line HTTP client for the API era. It comes with JSON support, syntax highlighting, persistent sessions, wget-like downloads, plugins, and more.*"
+
+```sh
+apt install httpie
 ```
 
 [Back to top](#setup-start-tools)
@@ -438,9 +454,6 @@ deb [arch=amd64] https://repo.fortinet.com/repo/6.4/ubuntu/ xenial multiverse
 
 ```sh
 sudo apt-get update
-```
-
-```sh
 sudo apt install forticlient
 ```
 
