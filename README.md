@@ -2,34 +2,39 @@
 
 A tools' list you should have installed on your new linux setup
 
-[![git](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/g/git/square-1-60.png)](#git "git")
-[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/t/terminal/square-1-60.png)](#curl "curl")
-[![sdkman](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/s/sdkman/square-1-60.png)](#sdkman "sdkman")
-[![java](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/j/java/square-1-60.png)](#java "java")
-[![gradle](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/g/gradle/square-1-60.png)](#gradle "gradle")
-[![maven](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/m/maven/square-1-60.png)](#maven "maven")
-[![terminal](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/t/terminal/square-1-60.png)](#nvm "nvm")
-[![nodejs](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/n/nodejs/square-1-60.png)](#nodejs "nodejs")
-[![npm](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/n/npm/square-1-60.png)](#nodejs "npm")
-[![yarn](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/y/yarn/square-1-60.png)](#yarn "yarn")
-[![tree](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/t/terminal/square-1-60.png)](#tree "tree")
-[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/h/httpie/square-1-60.png)](#httpie "httpie")
-[![docker](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/docker/square-1-60.png)](#docker "docker")
-[![docker-compose](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/docker-compose/square-1-60.png)](#docker-compose "docker-compose")
-[![guake](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/g/guake/square-1-60.png)](#guake "guake")
-[![virtualbox](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/v/virtualbox/square-1-60.png)](#virtualbox "virtualbox")
-[![vagrant](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/v/vagrant/square-1-60.png)](#vagrant "vagrant")
-[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/c/chrome/square-1-60.png)](#google-chrome "chrome")
-[![slack](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/s/slack/square-1-60.png)](#slack "slack")
-[![mattermost](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/m/mattermost/square-1-60.png)](#mattermost "mattermost")
-[![intellij](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/i/intellij/square-1-60.png)](#intellij "intellij")
-[![postgresql](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/p/postgresql/square-1-60.png)](#postgresql "postgresql")
-[![dbeaver](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/d/dbeaver/square-1-60.png)](#dbeaver "dbeaver")
-[![postman](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/p/postman/square-1-60.png)](#postman "postman")
-[![vscode](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/v/vscode/square-1-60.png)](#vscode "vscode")
-[![forticlient](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/f/forticlient/square-1-60.png)](#forticlient "forticlient")
-[![remmina](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/r/remmina/square-1-60.png)](#remmina "remmina")
-[![filezilla](https://github.com/HakumenNC/logo-gallery/raw/0.0.5/img/f/filezilla/square-1-60.png)](#filezilla "filezilla")
+[![git](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/g/git/square-1-60.png)](#git "git")
+[![terminal](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/t/terminal/square-1-60.png)](#curl "curl")
+[![sdkman](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/s/sdkman/square-1-60.png)](#sdkman "sdkman")
+[![java](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/j/java/square-1-60.png)](#java "java")
+[![gradle](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/g/gradle/square-1-60.png)](#gradle "gradle")
+[![maven](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/m/maven/square-1-60.png)](#maven "maven")
+[![terminal](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/t/terminal/square-1-60.png)](#nvm "nvm")
+[![nodejs](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/n/nodejs/square-1-60.png)](#nodejs "nodejs")
+[![npm](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/n/npm/square-1-60.png)](#nodejs "npm")
+[![yarn](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/y/yarn/square-1-60.png)](#yarn "yarn")
+[![bower](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/b/bower/square-1-60.png)](#bower "bower")
+[![tree](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/t/terminal/square-1-60.png)](#tree "tree")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/h/httpie/square-1-60.png)](#httpie "httpie")
+[![docker](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/d/docker/square-1-60.png)](#docker "docker")
+[![docker-compose](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/d/docker-compose/square-1-60.png)](#docker-compose "docker-compose")
+[![portainer](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/p/portainer/square-1-60.png)](#portainer "portainer")
+[![guake](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/g/guake/square-1-60.png)](#guake "guake")
+[![virtualbox](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/v/virtualbox/square-1-60.png)](#virtualbox "virtualbox")
+[![vagrant](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/v/vagrant/square-1-60.png)](#vagrant "vagrant")
+[![vagrant](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/m/microk8s/square-1-60.png)](#microk8s "microk8s")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/c/chrome/square-1-60.png)](#google-chrome "chrome")
+[![slack](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/s/slack/square-1-60.png)](#slack "slack")
+[![mattermost](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/m/mattermost/square-1-60.png)](#mattermost "mattermost")
+[![intellij](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/i/intellij/square-1-60.png)](#intellij "intellij")
+[![postgresql](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/p/postgresql/square-1-60.png)](#postgresql "postgresql")
+[![dbeaver](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/d/dbeaver/square-1-60.png)](#dbeaver "dbeaver")
+[![postman](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/p/postman/square-1-60.png)](#postman "postman")
+[![vscode](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/v/vscode/square-1-60.png)](#vscode "vscode")
+[![forticlient](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/f/forticlient/square-1-60.png)](#forticlient "forticlient")
+[![remmina](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/r/remmina/square-1-60.png)](#remmina "remmina")
+[![filezilla](https://github.com/HakumenNC/logo-gallery/raw/v0.1.1/img/f/filezilla/square-1-60.png)](#filezilla "filezilla")
+
+Want more logos? Take a look [here](https://github.com/HakumenNC/logo-gallery) for full set!
 
 ## git
 
@@ -175,6 +180,18 @@ yarn -v
 
 [Back to top](#setup-start-tools)
 
+## bower
+
+<https://bower.io/>
+
+*"Bower can manage components that contain HTML, CSS, JavaScript, fonts or even image files. Bower doesn’t concatenate or minify code or do anything else - it just installs the right versions of the packages you need and their dependencies.*"
+
+```sh
+sudo npm install -g bower
+```
+
+[Back to top](#setup-start-tools)
+
 ## tree
 
 ```sh
@@ -244,6 +261,17 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ```sh
 docker-compose -v
+```
+
+[Back to top](#setup-start-tools)
+
+## portainer
+
+*"Portainer Community Edition 2.0 is the foundation of the Portainer world. With over half a million regular users, it’s a powerful, open source toolset that allows you to easily build and manage containers in Docker, Docker Swarm, Kubernetes and Azure ACI.."*
+
+```sh
+docker volume create portainer_data
+docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
 ```
 
 [Back to top](#setup-start-tools)
